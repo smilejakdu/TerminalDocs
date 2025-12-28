@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Terminal 셋팅](README.md)
-  * [Iterm2 셋팅](terminal/readme.md)
+  * [Iterm2 셋팅](terminal/readme/README.md)
+    * [zshrc 셋팅](terminal/readme/zshrc.md)
   * [miniconda 셋팅](terminal/miniconda.md)
   * [실행 & 상태](terminal/and.md)
 * [Git](git/README.md)
